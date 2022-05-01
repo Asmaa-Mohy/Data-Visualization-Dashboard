@@ -4,7 +4,7 @@ This project is a collaboration between **[Asmaa Mohy](https://github.com/Asmaa-
 
 <h1>ITI-AI PRO INTAKE1 @ 2021</h1>
 <h2>Machine Learning prediction Model  with Data visualization</h2>
-<img src="https://github.com/Data-Visualization-Dashboard/data/Screenshot 2022-05-01 173437.PNG" alt="#" >
+<img src="https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/data/Screenshot 2022-05-01 173437.PNG" alt="#" >
 # **Project description**
 Creating an interactive dashboard using [Dash](https://plotly.com/dash/); a framework created by plotly.  
 

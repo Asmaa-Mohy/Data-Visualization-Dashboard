@@ -2,9 +2,6 @@
 House Price  Dashboard
 This project is a collaboration between **[Asmaa Mohy](https://github.com/Asmaa-Mohy) and [Safaa Fathii](https://github.com/SafaaFathii)**, implemented as an assessment for __Data Visualization Course, AI-pro track, ITI__
 
-<h1>ITI-AI PRO INTAKE1 @ 2021</h1>
-<h2>Machine Learning prediction Model  with Data visualization</h2>
-<img src="https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/data/Screenshot 2022-05-01 173437.PNG">
 ![Machine Learning prediction Model  with Data visualization](https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/data/Screenshot 2022-05-01 173437.PNG)
  **Project description**
 Creating an interactive dashboard using **[Dash](https://plotly.com/dash/); a framework created by plotly.  

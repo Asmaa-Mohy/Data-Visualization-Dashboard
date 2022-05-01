@@ -6,7 +6,7 @@ This project is a collaboration between **[Asmaa Mohy](https://github.com/Asmaa-
 <h2>Machine Learning prediction Model  with Data visualization</h2>
 <img src="https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/data/Screenshot 2022-05-01 173437.PNG">
 
-![Machine Learning prediction Model  with Data visualization](https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/data/Screenshot 2022-05-01 173437.PNG?raw=true)
+![Machine Learning prediction Model  with Data visualization](https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/blob/main/data/Screenshot%202022-05-01%20173243.png?raw=true)
  **Project description**
 Creating an interactive dashboard using **[Dash](https://plotly.com/dash/); a framework created by plotly.  
 

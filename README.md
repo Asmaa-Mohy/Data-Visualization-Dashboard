@@ -14,23 +14,23 @@ Our dashboard enables the user to try different settings for :
 <img src="https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/blob/main/data/Screenshot%202022-05-01%20173529.png">
 
 <h2>Explorationt some Feature</h2>
-<img src="data/Screenshot 2022-05-01 174247" alt="#" >
+<img src="https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/blob/main/data/Screenshot%202022-05-01%20174247.png">
 
 - preprocess data and solve data format probles like skewness
 - Extract some feature and check importance of it using Lasso model
 <h2>Feature Using Lasso </h2>
-<img src="data/Screenshot 2022-05-01 174501" alt="#" >
+<img src="https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/blob/main/data/Screenshot%202022-05-01%20174501.png">
 
 - Use PCA to select Principle commponent for models
 <h2>Feature Using PCA </h2>
-<img src="data/Screenshot 2022-05-01 174315" alt="#" >
+<img src="https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/blob/main/data/Screenshot%202022-05-01%20174315.png">
 
 - machine learning pipeline , Use different models and explore how it affects the performance.  
 <h2>Best model </h2>
-<img src="data/Screenshot 2022-05-01 174613" alt="#" >
+<img src="https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/blob/main/data/Screenshot%202022-05-01%20174613.png">
 
 <h2>Cross Validation </h2>
-<img src="data/Screenshot 2022-05-01 174759" alt="#" >
+<img src="https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/blob/main/data/Screenshot%202022-05-01%20174759.png">
 
 The data used is the [House Sales in King County, USA Dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) from kaggle
 

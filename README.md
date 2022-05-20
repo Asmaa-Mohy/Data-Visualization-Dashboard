@@ -2,7 +2,7 @@
 House Price  Dashboard
 This project is a collaboration between **[Asmaa Mohy](https://github.com/Asmaa-Mohy) and [Safaa Fathii](https://github.com/SafaaFathii)**, implemented as an assessment for __Data Visualization Course, AI-pro track, ITI__
 
-<h1>ITI-AI PRO INTAKE1 @ 2021</h1>
+<h1>ITI-AI PRO INTAKE1 @ 2022</h1>
 <h2>Machine Learning prediction Model  with Data visualization</h2>
 <img src="https://github.com/Asmaa-Mohy/Data-Visualization-Dashboard/blob/main/data/Screenshot%202022-05-01%20173437.png?raw=true">
  **Project description**
